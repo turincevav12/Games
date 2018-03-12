@@ -1,0 +1,158 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+#dialogSelect{
+    width: 400px;
+    min-height: 10px;
+    position: fixed;
+    margin-top: 12%;
+    margin-left: 34%;
+    display: none;
+    background: lightgreen;
+    border: 1px solid;
+    z-index: 5;
+}
+.dialogSelectLine{
+    width: 95%;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    border: 1px solid;
+    cursor: pointer;
+    margin: 5px auto;
+    text-align: center;
+}
+#Bmap1{
+
+}
+#Bmap2{
+    height: 100px;
+    width: 145px;
+    margin-top: -18%;
+    cursor: pointer;
+}
+#Bmap3{
+
+}
+#hello{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-image: url(phon.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#door{
+    width: 245px;
+    height: 297px;
+    margin: 15.4% 41%;
+    border-radius: 165px 165px 0 0;
+    cursor: pointer;
+}
+#map1{
+    width: 100%;
+    height: 160%;
+    background-image: url(map1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: none;
+}
+#map2{
+    width: 100%;
+    height: 161%;
+    background-image: url(map2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: none;
+}
+#map3{
+    width: 100%;
+    height: 100%;
+    background-image: url(map3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: none;
+}
+#hourse{
+    width: 58px;
+    height: 37px;
+    margin-top: 47%;
+    margin-left: 5%;
+    cursor: pointer;
+}
+#houm{
+    width: 138px;
+    height: 100px;
+    margin-left: 88%;
+    margin-top: 20%;
+    cursor: pointer;
+}
+#ferm{
+    height: 111px;
+    width: 145px;
+    margin-top: -68%;
+    border-radius: 0 85px 0 0;
+    cursor: pointer;
+}
+#lagerdvynog{
+    width: 120px;
+    height: 90px;
+    margin-left: 45%;
+    cursor: pointer;
+}
+#enterLager{
+    width: 100%;
+    height: 143%;
+    background-image: url(lager.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: none;
+}
+#vxod1{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    
+    margin-top: 32%;
+    margin-left: 39%;
+}
+#vxod2{    
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    margin-top: -6%;
+    margin-left: 58%;
+}
+#vxod3{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    margin-top: -5%;
+    margin-left: 75%;
+    
+}
+#people{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-image: url(people.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: -44% auto;
+    display: none;
+    z-index: 1;
+}
+#ozero{
+    width: 94px;
+    height: 56px;
+    margin-top: -1%;
+    margin-left: 93%;
+    cursor: pointer;
+}
